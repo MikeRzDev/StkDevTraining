@@ -2,6 +2,7 @@
 
 In order to start our training you must
  - create an account into https://github.com
+ - Download Visual Studio Code https://code.visualstudio.com
  - do the tutorial https://www.udemy.com/course/fundamentos-de-programacion-algoritmos-en-java-y-javascript/
  - do the assignments; these assignments should be coded in ENGLISH!
  - attend review meetings
